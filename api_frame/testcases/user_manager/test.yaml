@@ -1,0 +1,12 @@
+data1: 7999
+data2: &port1 168.33
+data3: *port1
+data4: &data
+  - data5:  马上教育
+  - data6:  马上教育
+data7:
+  - val1: 值1
+  - val2: 值2
+  - *data
+name1: 马上教育
+name2: 英雄联盟

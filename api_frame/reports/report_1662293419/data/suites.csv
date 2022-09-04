@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Sep 04 20:10:19 CST 2022","Sun Sep 04 20:10:19 CST 2022","1","testcases.user_manager","test_class2","Test","","","test_class2",""
+"passed","Sun Sep 04 20:10:19 CST 2022","Sun Sep 04 20:10:19 CST 2022","94","testcases.pruduct_manager","test_class2_func","Test","","","test_get_metris[caseinfo1]",""
+"passed","Sun Sep 04 20:10:19 CST 2022","Sun Sep 04 20:10:19 CST 2022","92","testcases.pruduct_manager","test_class2_func","Test","","","test_get_metris[caseinfo0]",""

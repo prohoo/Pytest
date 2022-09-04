@@ -1,0 +1,32 @@
+-
+  story: 登录接口
+  title: 验证登录用例111是否成功111
+  request:
+    method: post
+    url: user/login
+    headers:
+      content-Type: application/json
+    params:
+      application: app
+      application_client_type: h5
+    data:
+      accounts: baili
+      pwd: baili123
+      type: username
+  validata: null
+-
+  story: 登录接口
+  title: 验证登录用例222是否成功222
+  request:
+    method: post
+    url: user/login
+    headers:
+      content-Type: application/json
+    params:
+      application: app
+      application_client_type: h5
+    data:
+      accounts: baili
+      pwd: baili123
+      type: username
+  validata: null
